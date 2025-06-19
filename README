@@ -1,6 +1,5 @@
 1. https://www.ti.com/tool/PROCESSOR-SDK-AM335X#downloads
 2. https://www.ti.com/product/AM3358#tech-docs
-3. https://www.ti.com/tool/download/PROCESSOR-SDK-LINUX-AM335X
 
 The official OpenEmbedded/Yocto BSP layer for Texas Instruments platforms.
 
